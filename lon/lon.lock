@@ -1,0 +1,25 @@
+{
+  "version": "1",
+  "sources": {
+    "lon": {
+      "type": "GitHub",
+      "fetchType": "tarball",
+      "owner": "nikstur",
+      "repo": "lon",
+      "branch": "main",
+      "revision": "d17d0fe04fb7ce15f0e2e3521b97906514ec1857",
+      "url": "https://github.com/nikstur/lon/archive/d17d0fe04fb7ce15f0e2e3521b97906514ec1857.tar.gz",
+      "hash": "sha256-3wppxmmCMoizu6aemTt2wtakXlPI4E68odEVxU2r2Uc="
+    },
+    "nixpkgs": {
+      "type": "GitHub",
+      "fetchType": "tarball",
+      "owner": "NixOS",
+      "repo": "nixpkgs",
+      "branch": "nixos-unstable",
+      "revision": "2795c506fe8fb7b03c36ccb51f75b6df0ab2553f",
+      "url": "https://github.com/NixOS/nixpkgs/archive/2795c506fe8fb7b03c36ccb51f75b6df0ab2553f.tar.gz",
+      "hash": "sha256-W7lqHp0qZiENCDwUZ5EX/lNhxjMdNapFnbErcbnP11Q="
+    }
+  }
+}
