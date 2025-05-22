@@ -1,7 +1,7 @@
 This repository contains a build definition for the kernel modules of ESDM (Entropy Source and DRNG Manager), for reference, see:
 
-* (Website)[https://www.chronox.de/esdm/]
-* (Github Repository)[https://github.com/smuellerDD/esdm]
+* [Website](https://www.chronox.de/esdm/)
+* [Github Repository](https://github.com/smuellerDD/esdm)
 
 # Usage instructions
 
